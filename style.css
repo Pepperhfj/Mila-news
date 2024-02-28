@@ -1,0 +1,47 @@
+.ramen {
+border-style: dotted;
+border-width: 4px;
+padding: 0px;
+font-family: monospace;
+
+}
+
+
+.Mochi {
+font-size: 40px;
+font-family: monospace;
+
+}
+
+.divider {
+font-size: 30px;
+
+}
+
+.date {
+border-style: solid;
+border-width: 2px;
+width: 300px;
+font-size: 12px;
+font-family: monospace;
+padding: 5px;
+
+}
+
+.pic {
+    margin: 50px;
+    border-style: dashed;
+    border-width: 2px;
+    width: 181px;
+    height: 180px;
+}
+
+.header3 {
+    font-family: monospace;
+    margin: 50px;
+}
+
+.paragraph {
+    font-family: monospace;
+    margin: 50px;
+}
